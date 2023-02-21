@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439697187812",
+    "project_id": "xfauth-b890f",
+    "storage_bucket": "xfauth-b890f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439697187812:android:8e30678a4ef6e758d85df1",
+        "android_client_info": {
+          "package_name": "com.companyname.xamarinauthrg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439697187812-lq0nrhr0n90vk7njbn4hkt16ck4f1r2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx7tj0fz2bkhYH7ylS_SnQa1lHgpMwhPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439697187812-lq0nrhr0n90vk7njbn4hkt16ck4f1r2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

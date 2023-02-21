@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="xamarinauthrg.RegisterPage">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand" Padding="20">
+            <Frame BackgroundColor="LightGray"  Padding="10" >
+                <Label Text="MetaMaze"  TextColor="White" FontSize="20" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+            </Frame>
+            <Label Text="Registration:" ></Label>
+            <Entry x:Name="DisplayNameEntry" Placeholder="Name"></Entry>
+            <Entry x:Name="EmailEntry" Placeholder="Email"></Entry>
+            <Entry x:Name="PasswordEntry" Placeholder="Password min charakters" IsPassword="True"></Entry>
+            <Entry x:Name="PasswordRepeatEntry" Placeholder="Repeat Password" IsPassword="True"></Entry>
+            <Button Text="Register" Clicked="Button_Clicked_Register"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

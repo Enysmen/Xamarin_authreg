@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="xamarinauthrg.MainPage">
+
+    <StackLayout VerticalOptions="CenterAndExpand" Padding="35">
+        <Frame BackgroundColor="LightGray"  Padding="10" >
+            <Label Text="MetaMaze"  TextColor="White" FontSize="20" FontAttributes="Bold"/>
+        </Frame>
+
+        <Label Text="Sing in with email:"></Label>
+        <Entry x:Name="EmailEntry" Placeholder="Email"></Entry>
+        <Entry x:Name="PasswordEntry" Placeholder="Password" IsPassword="True"></Entry>
+        <Button Text="Log in" Clicked="Button_Clicked_login_mainpage"></Button>
+        <Button Text="Register" Clicked="Button_Clicked_Register_mainpage"></Button>
+    </StackLayout>
+
+</ContentPage>

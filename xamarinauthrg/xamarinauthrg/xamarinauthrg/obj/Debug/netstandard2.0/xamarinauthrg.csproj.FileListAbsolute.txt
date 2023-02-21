@@ -1,0 +1,17 @@
+E:\aplikacje mobilne\xamarinauthrg\xamarinauthrg\xamarinauthrg\bin\Debug\netstandard2.0\xamarinauthrg.deps.json
+E:\aplikacje mobilne\xamarinauthrg\xamarinauthrg\xamarinauthrg\bin\Debug\netstandard2.0\xamarinauthrg.dll
+E:\aplikacje mobilne\xamarinauthrg\xamarinauthrg\xamarinauthrg\bin\Debug\netstandard2.0\xamarinauthrg.pdb
+E:\aplikacje mobilne\xamarinauthrg\xamarinauthrg\xamarinauthrg\obj\Debug\netstandard2.0\xamarinauthrg.csproj.AssemblyReference.cache
+E:\aplikacje mobilne\xamarinauthrg\xamarinauthrg\xamarinauthrg\obj\Debug\netstandard2.0\xamarinauthrg.GeneratedMSBuildEditorConfig.editorconfig
+E:\aplikacje mobilne\xamarinauthrg\xamarinauthrg\xamarinauthrg\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\aplikacje mobilne\xamarinauthrg\xamarinauthrg\xamarinauthrg\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\aplikacje mobilne\xamarinauthrg\xamarinauthrg\xamarinauthrg\obj\Debug\netstandard2.0\xamarinauthrg.AssemblyInfoInputs.cache
+E:\aplikacje mobilne\xamarinauthrg\xamarinauthrg\xamarinauthrg\obj\Debug\netstandard2.0\xamarinauthrg.AssemblyInfo.cs
+E:\aplikacje mobilne\xamarinauthrg\xamarinauthrg\xamarinauthrg\obj\Debug\netstandard2.0\xamarinauthrg.csproj.CoreCompileInputs.cache
+E:\aplikacje mobilne\xamarinauthrg\xamarinauthrg\xamarinauthrg\obj\Debug\netstandard2.0\XamlC.stamp
+E:\aplikacje mobilne\xamarinauthrg\xamarinauthrg\xamarinauthrg\obj\Debug\netstandard2.0\xamarinauthrg.dll
+E:\aplikacje mobilne\xamarinauthrg\xamarinauthrg\xamarinauthrg\obj\Debug\netstandard2.0\refint\xamarinauthrg.dll
+E:\aplikacje mobilne\xamarinauthrg\xamarinauthrg\xamarinauthrg\obj\Debug\netstandard2.0\xamarinauthrg.pdb
+E:\aplikacje mobilne\xamarinauthrg\xamarinauthrg\xamarinauthrg\obj\Debug\netstandard2.0\ref\xamarinauthrg.dll
+E:\aplikacje mobilne\xamarinauthrg\xamarinauthrg\xamarinauthrg\obj\Debug\netstandard2.0\ProfilePage.xaml.g.cs
+E:\aplikacje mobilne\xamarinauthrg\xamarinauthrg\xamarinauthrg\obj\Debug\netstandard2.0\RegisterPage.xaml.g.cs
